@@ -1,0 +1,37 @@
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\wafth 23.exe.config
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\wafth 23.exe
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\wafth 23.pdb
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\Google.Protobuf.dll
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\MySql.Data.dll
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\System.Buffers.dll
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\System.Memory.dll
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\ZstdNet.dll
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\Google.Protobuf.pdb
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\Google.Protobuf.xml
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\MySql.Data.xml
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\System.Buffers.xml
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\System.Memory.xml
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\obj\Debug\wafth 23.csproj.AssemblyReference.cache
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\obj\Debug\wafth_23.Form1.resources
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\obj\Debug\wafth_23.Properties.Resources.resources
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\obj\Debug\wafth 23.csproj.GenerateResource.cache
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\obj\Debug\wafth 23.csproj.CoreCompileInputs.cache
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\obj\Debug\wafth 23.csproj.CopyComplete
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\obj\Debug\wafth 23.exe
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\obj\Debug\wafth 23.pdb
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\obj\Debug\wafth_23.Form2.resources
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\MetroFramework.Design.dll
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\MetroFramework.dll
+C:\Users\lobo1\source\repos\wafth 23\wafth 23\bin\Debug\MetroFramework.Fonts.dll
